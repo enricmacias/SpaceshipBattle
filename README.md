@@ -8,6 +8,7 @@ Download the game [here](https://dl.dropboxusercontent.com/u/8500453/SpaceshipBa
 
 ゲーム。
 OpenGLを使用。
+一人で開発。
 
 ## Languages
 
