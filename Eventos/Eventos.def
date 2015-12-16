@@ -1,0 +1,6 @@
+;Eventos.def
+;Function exported from this DLL
+LIBRARY   "Eventos.dll"
+EXPORTS
+   CreateEInterface
+   ReleaseEInterface

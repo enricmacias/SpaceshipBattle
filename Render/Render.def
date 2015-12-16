@@ -1,0 +1,6 @@
+;Render.def
+;Function exported from this DLL
+LIBRARY   "Render.dll"
+EXPORTS
+   CreateRInterface
+   ReleaseRInterface

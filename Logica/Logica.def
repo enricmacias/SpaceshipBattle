@@ -1,0 +1,6 @@
+;Logica.def
+;Function exported from this DLL
+LIBRARY   "Logica.dll"
+EXPORTS
+   CreateLInterface
+   ReleaseLInterface

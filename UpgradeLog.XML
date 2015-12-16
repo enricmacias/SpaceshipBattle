@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="VJ">
+</Property><Property Name="Solution File" Value="D:\kike\VJ\VJ\VJ.sln">
+</Property><Property Name="Date" Value="domingo, 25 de noviembre de 2001">
+</Property><Property Name="Time" Value="3:56">
+</Property></Properties><Event ErrorLevel="1" Project="VJ" Source="VJ\VJ.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="VJ" Source="VJ\VJ.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="VJ" Source="VJ\VJ.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="DatosE" Source="DatosE\DatosE.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="DatosE" Source="DatosE\DatosE.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="DatosE" Source="DatosE\DatosE.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="DatosL" Source="DatosL\DatosL.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="DatosL" Source="DatosL\DatosL.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="DatosL" Source="DatosL\DatosL.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="DatosR" Source="DatosR\DatosR.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="DatosR" Source="DatosR\DatosR.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="DatosR" Source="DatosR\DatosR.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Eventos" Source="Eventos\Eventos.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="Eventos" Source="Eventos\Eventos.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="Eventos" Source="Eventos\Eventos.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Logica" Source="Logica\Logica.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="Logica" Source="Logica\Logica.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="Logica" Source="Logica\Logica.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Render" Source="Render\Render.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="Render" Source="Render\Render.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="Render" Source="Render\Render.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="VJ.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="VJ.sln" Description="Converted">
+</Event></UpgradeLog>

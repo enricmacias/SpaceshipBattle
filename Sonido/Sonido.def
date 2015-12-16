@@ -1,0 +1,6 @@
+;Sonido.def
+;Function exported from this DLL
+LIBRARY   "Sonido.dll"
+EXPORTS
+   CreateSInterface
+   ReleaseSInterface

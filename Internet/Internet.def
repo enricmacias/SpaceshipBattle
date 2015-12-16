@@ -1,0 +1,6 @@
+;Internet.def
+;Function exported from this DLL
+LIBRARY   "Internet.dll"
+EXPORTS
+   CreateeNetInterface
+   ReleaseeNetInterface
