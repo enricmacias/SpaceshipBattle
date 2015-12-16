@@ -3,7 +3,11 @@
 ## Description
 
 Game developed with OpenGL library.
-I developed the entire game.
+
+Download the game [here](https://dl.dropboxusercontent.com/u/8500453/SpaceshipBattle.zip)
+
+ゲーム。
+OpenGLを使用。
 
 ## Languages
 
